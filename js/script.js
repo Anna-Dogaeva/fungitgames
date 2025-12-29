@@ -85,7 +85,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     // Запускаем анимацию после небольшой задержки
-    setTimeout(() => {
+    setInterval(() => {
         window.dispatchEvent(new Event('scroll'));
     }, 300);
 });
