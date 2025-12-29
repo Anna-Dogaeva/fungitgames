@@ -89,3 +89,10 @@ document.addEventListener('DOMContentLoaded', () => {
         window.dispatchEvent(new Event('scroll'));
     }, 300);
 });
+
+function updateSomething(old, update) {
+    return {
+        ...old,
+        ...update,
+    }
+}
