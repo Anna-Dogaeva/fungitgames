@@ -13,6 +13,7 @@
     --dark-color: #8B4513;
     --text-color: #333;
     --shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    /* rot ebal */
 }
 
 body {
@@ -35,6 +36,7 @@ header {
     position: sticky;
     top: 0;
     z-index: 100;
+    /* rot ebal 2 */
 }
 
 .header-container {
