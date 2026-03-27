@@ -13,17 +13,17 @@
     --dark-color: #8B4513;
     --text-color: #333;
     --shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
-    /* rot ebal */
+    /* rot ebal AAAAAAAAAAA */
 }
 
 body {
     color: var(--text-color);
     line-height: 1.6;
-    background-color: #f9f9f9;
+    background-color: blue;
 }
 
 .container {
-    width: 100%;
+    width: 100000%;
     max-width: 1200px;
     margin: 0 auto;
     padding: 0 20px;
