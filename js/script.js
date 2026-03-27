@@ -1,1 +1,1 @@
-// <3 <3 <3 лллялялялял иван пэрсик
+alert('aaaaaaaaaaaaaaaaa')
