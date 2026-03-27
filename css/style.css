@@ -13,11 +13,10 @@
     --dark-color: #8B4513;
     --text-color: #333;
     --shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
-    /* rot ebal AAAAAAAAAAA */
 }
 
 body {
-    color: var(--text-color);
+    color: red;
     line-height: 1.6;
     background-color: blue;
 }
